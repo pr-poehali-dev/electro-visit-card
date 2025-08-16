@@ -68,7 +68,7 @@ export default function Index() {
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
           <div className="flex items-center space-x-2">
             <Icon name="CircuitBoard" size={32} className="text-primary" />
-            <h1 className="text-2xl font-bold">ЭлектроПро</h1>
+            <h1 className="text-2xl font-bold mx-[3px] my-0 px-[15px] py-0 text-zinc-50">ЭлектроПро</h1>
           </div>
           <nav className="hidden md:flex space-x-6">
             <a href="#services" className="hover:text-primary transition-colors">Услуги</a>
